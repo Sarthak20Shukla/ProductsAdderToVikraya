@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983555902757",
+    "project_id": "vikraya-b84d5",
+    "storage_bucket": "vikraya-b84d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983555902757:android:1b87b6cb14478dd683decc",
+        "android_client_info": {
+          "package_name": "com.example.productsaddertovikraya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvs8NRHAXnVr-yPRbQx26QevlhfvA2L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983555902757:android:8617be19dfb3997883decc",
+        "android_client_info": {
+          "package_name": "com.example.vikraya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvs8NRHAXnVr-yPRbQx26QevlhfvA2L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
