@@ -171,7 +171,7 @@ class MainActivity : AppCompatActivity() {
         val imagesByteArray= mutableListOf<ByteArray>()
         selectedImages.forEach {
             val stream= ByteArrayOutputStream()
-            val imageBmp=MediaStore.Images.Media.getBitmap(contentResolver,it)
+            val imageBmp=MediaStore.Images.Media.getBitmap(this.contentResolver,it)
             if(imageBmp.compress(Bitmap.CompressFormat.JPEG,100,stream)){
                 imagesByteArray.add(stream.toByteArray())
             }
